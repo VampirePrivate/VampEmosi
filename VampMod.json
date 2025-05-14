@@ -1,0 +1,12 @@
+{
+  "moderators": [
+    {
+      "id": "12345678",
+      "name": "Moderator1"
+    },
+    {
+      "id": "87654321",
+      "name": "Moderator2"
+    }
+  ]
+}
